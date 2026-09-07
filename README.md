@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Integrative Bile Acid and Microbiome Analyses in MASLD
 
 This repository provides a workflow for **integrative multi-compartment bile acid and microbiome analyses in MASLD**, combining bile acid profiles from the **liver, plasma, ileum, cecum, and feces**.
@@ -48,3 +49,7 @@ The overall workflow is designed to integrate complementary information from bil
 * explore the predictive potential of microbiome profiles using machine-learning approaches.
 
 The emphasis is on combining **multivariate integration, statistical modeling, visualization, and predictive analysis** to provide a systems-level view of bile acid–microbiome relationships in MASLD.
+=======
+# MASLD-Integrative-BAs-and-microbiome-analyses
+Integrative bile acids and microbiome analyses
+>>>>>>> af3a3aeca85041c5a41e659e9f359eb2705641a7
