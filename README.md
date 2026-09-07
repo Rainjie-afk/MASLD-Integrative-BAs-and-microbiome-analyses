@@ -18,7 +18,7 @@ Together, these analyses provide complementary approaches for identifying bile a
 
 ## Microbiome Machine-Learning Analysis
 
-An optional machine-learning pipeline is included for **three-class MASLD microbiome classification**.
+An optional machine-learning pipeline is included for **four-class MASLD microbiome classification**.
 
 The analysis follows the workflow below:
 
