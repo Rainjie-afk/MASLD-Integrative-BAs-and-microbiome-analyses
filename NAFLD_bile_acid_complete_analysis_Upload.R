@@ -1,8 +1,7 @@
 set.seed(20260807)
 options(stringsAsFactors = FALSE)
 input_candidates <- c(
-  "NAFLD_BA_Allcontaint-1.csv",
-  "NAFLD_BA_Allcontaint.csv"
+  "MASLD_BA_Allcontaint_mockdata.csv"
 )
 existing_input <- input_candidates[file.exists(input_candidates)]
 input_file <- if (length(existing_input) > 0) existing_input[1] else input_candidates[1]
@@ -61,8 +60,7 @@ SPLSDA_PERF_NREPEAT <- 20L
 DIABLO_TUNE_NREPEAT <- 3L
 DIABLO_PERF_NREPEAT <- 20L
 metadata_candidates <- c(
-  "sample_metadata_map-1.csv",
-  "sample_metadata_map.csv"
+  "sample_metadata_map_mockdata.csv"
 )
 existing_metadata <- metadata_candidates[file.exists(metadata_candidates)]
 metadata_file <- if (length(existing_metadata) > 0) {
